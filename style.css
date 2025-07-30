@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+
+}
+.main {
+    display: block;
+
+    align-items: center;
+    padding: 10px;
+}
+img {
+    margin-left: 39%;
+    height: 400px;
+    border-radius: 50%;
+}
+.Name {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin-top: 2px;
+    border-radius: 10px;
+}
+.Section {
+    color: white;
+    font-size: 40px;
+    margin-top: 1%;
+    text-align: center;
+
+}
+.Teacher {
+    font-size: 39px;
+    color: white;
+    margin-top: 1%;
+    text-align: center;
+}
+.Subject {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 2%;
+}
